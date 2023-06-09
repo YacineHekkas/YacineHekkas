@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1705/karpenkoilia170500003/78957846-line-concept-for-computer-engineering-modern-linear-web-banner-for-software-development.jpg)]
+![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1705/karpenkoilia170500003/78957846-line-concept-for-computer-engineering-modern-linear-web-banner-for-software-development.jpg)]
 <h1 align="center">Hi 👋, I'm Yacine Hekkas</h1>
 <h3 align="center">A Computer Science Student Passionate Mobile Application Developer </h3>
 
