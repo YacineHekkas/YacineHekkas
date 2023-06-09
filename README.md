@@ -1,6 +1,6 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1705/karpenkoilia170500003/78957846-line-concept-for-computer-engineering-modern-linear-web-banner-for-software-development.jpg)]
 <h1 align="center">Hi 👋, I'm Yacine Hekkas</h1>
-<h3 align="center">A Computer Science Student Passionate Mobile Application Developer </h3>
+<h3 align="center">A Computer Science Student And Passionate Mobile Application Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yacinehekkas&label=Profile%20views&color=0e75b6&style=flat" alt="yacinehekkas" /> </p>
 
